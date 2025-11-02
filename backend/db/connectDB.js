@@ -9,4 +9,5 @@ const connectDB = async ()=>{
         process.exit(0);
     }
 }
+// comment
 export default connectDB;
